@@ -36,7 +36,7 @@ const Header = () => {
           className="flex items-center shrink-0 group"
         >
          <Image
-                src="/arez.webp"
+                src="/arez.png"
                 alt="Arez Tech Logo"
                 width={160}
                 height={40}

@@ -36,7 +36,7 @@ const Footer = () => {
             {/* Logo */}
             <Link href="/" className="inline-block mb-8">
               <Image
-                src="/arez.webp"
+                src="/arez.png"
                 alt="Arez Tech"
                 width={180}
                 height={45}
